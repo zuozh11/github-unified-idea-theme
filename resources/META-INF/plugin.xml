@@ -2,17 +2,16 @@
   <id>com.zuozhi.github-unified-ui-theme</id>
   <name>GitHub Unified UI Theme</name>
   <vendor url="https://github.com/zuozh11">zuozh11</vendor>
-  <version>1.0.4</version>
+  <version>1.0.5</version>
   <description><![CDATA[
     A low-contrast blue-black UI theme with a modified Catppuccin Mocha editor
     color scheme. Designed for the Islands/New UI in IntelliJ Platform 2026.2.
   ]]></description>
   <change-notes><![CDATA[
-    <h3>1.0.4</h3>
+    <h3>1.0.5</h3>
     <ul>
-      <li>Unified UI surfaces within a blue-black color family.</li>
-      <li>Reduced border and editor-guide contrast.</li>
-      <li>Preserved Catppuccin Mocha syntax foreground colors.</li>
+      <li>Aligned console and block-terminal backgrounds with the blue-black UI palette.</li>
+      <li>Preserved existing console output and syntax foreground colors.</li>
     </ul>
   ]]></change-notes>
   <idea-version since-build="262" until-build="262.*" />

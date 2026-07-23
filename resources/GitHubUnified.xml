@@ -16,19 +16,19 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="A6E3A1" />
     <option name="ANNOTATIONS_COLOR" value="CDD6F4" />
-    <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_END" value="181825" />
-    <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_START" value="181825" />
-    <option name="BLOCK_TERMINAL_DEFAULT_BACKGROUND" value="191A1C" />
+    <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_END" value="111820" />
+    <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_START" value="111820" />
+    <option name="BLOCK_TERMINAL_DEFAULT_BACKGROUND" value="0D1117" />
     <option name="BLOCK_TERMINAL_DEFAULT_FOREGROUND" value="CDD6F4" />
     <option name="BLOCK_TERMINAL_ERROR_BLOCK_STROKE_COLOR" value="F38BA8" />
-    <option name="BLOCK_TERMINAL_INACTIVE_SELECTED_BLOCK_BACKGROUND" value="45475A" />
+    <option name="BLOCK_TERMINAL_INACTIVE_SELECTED_BLOCK_BACKGROUND" value="18212C" />
     <option name="BLOCK_TERMINAL_INACTIVE_SELECTED_BLOCK_STROKE_COLOR" value="6C7086" />
     <option name="BLOCK_TERMINAL_PROMPT_SEPARATOR_COLOR" value="45475A" />
-    <option name="BLOCK_TERMINAL_SELECTED_BLOCK_BACKGROUND" value="313244" />
+    <option name="BLOCK_TERMINAL_SELECTED_BLOCK_BACKGROUND" value="1B2633" />
     <option name="BLOCK_TERMINAL_SELECTED_BLOCK_STROKE_COLOR" value="89B4FA" />
     <option name="CARET_COLOR" value="F5E0DC" />
     <option name="CARET_ROW_COLOR" value="121A23" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="191A1C" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="0D1117" />
     <option name="DELETED_LINES_COLOR" value="EBA0AC" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="6C7086" />
     <option name="DOCUMENTATION_COLOR" value="181825" />

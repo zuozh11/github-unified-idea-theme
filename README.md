@@ -14,7 +14,7 @@ scheme.
 
 ## Installation
 
-1. Download `github-unified-idea-theme-v1.0.4.zip` from the latest Release.
+1. Download `github-unified-idea-theme-v1.0.5.zip` from the latest Release.
 2. Open **Settings → Plugins**.
 3. Click the gear icon and choose **Install Plugin from Disk…**.
 4. Select the downloaded ZIP and restart the IDE.
@@ -51,4 +51,3 @@ The installable archive is written to `build/`.
 The repository is released under the MIT License. The bundled editor color
 scheme is derived from [Catppuccin for JetBrains](https://github.com/catppuccin/jetbrains),
 also licensed under MIT. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
-
