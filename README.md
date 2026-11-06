@@ -9,12 +9,12 @@ scheme.
 
 ## Compatibility
 
-- IntelliJ Platform build `262.*` (2026.2)
+- IntelliJ Platform build `262.*`–`263.*` (2026.2–2026.3)
 - Islands/New UI
 
 ## Installation
 
-1. Download `github-unified-idea-theme-v1.0.5.zip` from the latest Release.
+1. Download `github-unified-idea-theme-v1.0.6.zip` from the latest Release.
 2. Open **Settings → Plugins**.
 3. Click the gear icon and choose **Install Plugin from Disk…**.
 4. Select the downloaded ZIP and restart the IDE.

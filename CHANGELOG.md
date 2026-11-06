@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.6
+
+- Added compatibility with IntelliJ Platform 2026.3 (263.*).
+- Preserved the existing UI palette and editor color scheme.
+
 ## 1.0.5
 
 - Aligned the run/debug console background with the editor canvas.
